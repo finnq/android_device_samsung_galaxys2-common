@@ -214,6 +214,7 @@ on post-fs-data
     chown system radio /sys/devices/virtual/sec/tsp_noise_test/set_module_off
     chown system radio /sys/devices/virtual/sec/tsp_noise_test/set_module_on
 
+    chown system radio /sys/devices/virtual/sec/sec_touchscreen/tsp_slide2wake
     chown system radio /sys/devices/virtual/sec/sec_touchscreen/tsp_firm_version_panel
     chown system radio /sys/devices/virtual/sec/sec_touchscreen/tsp_firm_version_phone
     chown system radio /sys/devices/virtual/sec/sec_touchscreen/tsp_firm_update_status 
